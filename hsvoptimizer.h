@@ -1,0 +1,4 @@
+namespace hsvoptimizer
+{
+  void foo();
+}
